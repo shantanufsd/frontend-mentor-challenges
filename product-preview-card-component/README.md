@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [product-preview-card-component](https://github.com/frontend-mentor-challenges/product-preview-card-component)
+- Solution URL: [product-preview-card-component](https://github.com/frontend-mentor-challenges/tree/main/product-preview-card-component)
 - Live Site URL: [preview](https://shantanufsd.github.io/frontend-mentor-challenges/product-preview-card-component)
 
 ## My process
