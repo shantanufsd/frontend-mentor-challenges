@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [QR Code Component](https://github.com/shantanufsd/frontend-mentor-challenges/qr-code-component)
+- Solution URL: [QR Code Component](https://github.com/shantanufsd/frontend-mentor-challenges/tree/main/qr-code-component)
 - Live Site URL: [preview](https://shantanufsd.github.io/frontend-mentor-challenges/qr-code-component)
 
 ## My process
