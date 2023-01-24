@@ -9,3 +9,11 @@
 ## 2. [QR Code Component](https://github.com/shantanufsd/frontend-mentor-challenges/tree/main/qr-code-component)
 
 ![Screenshot of QR Code Component](qr-code-component/screenshots/screenshot-qr-code-image-desktop.png)
+
+## 3. [Interactive Rating Component](https://github.com/frontend-mentor-challenges/tree/main/interactive-rating-component)
+
+![Screenshot of Interactive Rating Component -before](./interactive-rating-component/screenshots/screenshot-interactive-rating-component-before-desktop.png)
+
+![Screenshot of Interactive Rating Component -after](./interactive-rating-component/screenshots/screenshot-interactive-rating-component-after-desktop.png)
+
+

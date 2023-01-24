@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Interactive Rating Component](https://github.com/shantanufsd/frontend-mentor-challenges/tree/main/interactive-rating-component)
-- Live Site URL: [View](https://shantanufsd.github.io/frontend-mentor-challenges/interactive-code-component)
+- Live Site URL: [View](https://shantanufsd.github.io/frontend-mentor-challenges/interactive-rating-component)
 
 ## My process
 
