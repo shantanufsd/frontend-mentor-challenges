@@ -1,0 +1,157 @@
+html,body {
+  height: 100%;
+  background-color: hsl(216, 12%, 8%);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  background-color: hsl(213, 19%, 15%);
+  display: flex;
+  flex-direction: column;
+  height: 18em;
+  width: 17em;
+  border-radius: 1.5em;
+  padding: 1.5em;
+}
+
+.card-image1 {
+  height: 1.2em;
+  width: 1.2em;
+  padding: 0.6em;
+  border-radius: 50%;
+  background-color: hsl(213, 19%, 21%);
+}
+
+h1 {
+  color: hsl(0, 0%, 100%);
+  font-size: 1.5em;
+  font-family: 'Overpass', sans-serif;
+  font-weight: 400;
+  margin-bottom: 0;
+}
+
+.card-description {
+  color: hsl(217, 12%, 63%);
+  font-family: 'Overpass', sans-serif;
+  font-size: 0.8125em;
+  line-height: 1.5;
+}
+
+.rating-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 0.5em;
+}
+
+.rating {
+  background-color: hsl(213, 19%, 21%);
+  color: hsl(217, 12%, 63%);
+  border-radius: 50%;
+  border: none;
+  height: 1em;
+  width: 1em;
+  padding: 1.5em;
+  margin: 0.6em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.rating:hover {
+  background-color: hsl(25, 97%, 53%);
+  transition: 0.5s;
+  color: hsl(0, 0%, 100%)
+}
+
+.selectedRating {
+  background-color: hsl(217, 12%, 63%);
+  transition: 0.5s;
+  color: hsl(0, 0%, 100%);
+}
+
+.submit {
+  border-radius: 1.5em;
+  border: none;
+  padding: 0.8em 8em;
+  background-color: hsl(25, 97%, 53%);
+  color: hsl(0, 0%, 100%);
+  margin-top: auto;
+}
+
+.submit:hover {
+  color: hsl(25, 97%, 53%);
+  background-color: hsl(0, 0%, 100%);
+  transition: 0.5s;
+}
+
+.hidden-container {
+  background-color: hsl(213, 19%, 15%);
+  flex-direction: column;
+  height: 18em;
+  width: 17em;
+  border-radius: 1.5em;
+  padding: 1.5em;
+  align-items: center;
+}
+
+.showRating {
+  background-color: hsl(213, 19%, 21%);
+  font-family: 'Overpass', sans-serif;
+  color: hsl(25, 97%, 53%);
+  border-radius: 1.5em;
+  padding: 0.5em 1.5em;
+  font-weight: 400;
+  font-size: 0.8125em;
+}
+
+.card-image2 {
+  height: 6em;
+  margin-bottom: 1em;
+}
+
+h2 {
+  color: hsl(0, 0%, 100%);
+  font-size: 1.5em;
+  font-family: 'Overpass', sans-serif;
+  font-weight: 400;
+  margin-bottom: 0;
+}
+.card-thank-you {
+  color: hsl(217, 12%, 63%);
+  font-family: 'Overpass', sans-serif;
+  font-size: 0.8125em;
+  line-height: 1.5;
+  text-align: center;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.attribution{
+    font-family: 'Overpass', sans-serif;
+    font-size: 0.8em;
+    color:hsl(216, 12%, 54%)
+}
+
+.attribution a{
+    color:hsl(217, 12%, 63%);
+}
+
+@media only screen and (max-width:375px){
+    .container{
+        width: 16em;
+        border-radius: 1em;
+    }
+
+    .hidden-container{
+        width: 16em;
+        border-radius: 1em;
+    }
+}
