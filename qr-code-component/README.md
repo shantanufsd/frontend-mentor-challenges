@@ -23,14 +23,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](screenshots/screenshot-qr-code-image-desktop.png)
+![screnshot of QR Code desktop](screenshots/screenshot-qr-code-image-desktop.png)
 
-![](screenshots/screenshot-qr-code-image-mobile.png)
+![screenshot of QR Code mobile](screenshots/screenshot-qr-code-image-mobile.png)
 
 ### Links
 
 - Solution URL: [QR Code Component](https://github.com/shantanufsd/frontend-mentor-challenges/tree/main/qr-code-component)
-- Live Site URL: [preview](https://shantanufsd.github.io/frontend-mentor-challenges/qr-code-component)
+- Live Site URL: [View](https://shantanufsd.github.io/frontend-mentor-challenges/qr-code-component)
 
 ## My process
 
@@ -60,5 +60,5 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@shantanupratap](https://www.frontendmentor.io/profile/shantanupratap)
-- Twitter - [@codershantanu](https://www.twitter.com/shantanufsd)
+- Twitter - [@shantanufsd](https://www.twitter.com/shantanufsd)
 

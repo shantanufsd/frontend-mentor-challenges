@@ -24,14 +24,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](screenshots/screenshot-image-product-desktop.png)
+![screenshot of product preview card component desktop](screenshots/screenshot-image-product-desktop.png)
 
-![](screenshots/screenshot-image-product-mobile.png)
+![screenshot of product preview card component mobile](screenshots/screenshot-image-product-mobile.png)
 
 ### Links
 
 - Solution URL: [product-preview-card-component](https://github.com/shantanufsd/frontend-mentor-challenges/tree/main/product-preview-card-component)
-- Live Site URL: [preview](https://shantanufsd.github.io/frontend-mentor-challenges/product-preview-card-component)
+- Live Site URL: [View](https://shantanufsd.github.io/frontend-mentor-challenges/product-preview-card-component)
 
 ## My process
 
