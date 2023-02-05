@@ -1,0 +1,113 @@
+body {
+  background-color: hsl(217, 54%, 11%);
+}
+
+.card {
+  width: 17em;
+  background-color: hsl(216, 50%, 16%);
+  border-radius: 0.7em;
+  box-shadow: 0 1em 0.2em 0.8em hsl(216, 50%, 10%, 50%),
+  1em 0 0.5em 1em  hsl(217, 54%, 12%, 50%),
+  -1em 0 0.5em 1em hsl(217, 54%, 12%, 50%),
+  1em 2em 0.5em 1em hsl(217, 54%, 12%, 50%),
+  -1em 2em 0.5em 1em hsl(217, 54%, 12%, 50%);
+}
+
+.card-img-top {
+  width: 15em;
+  height: 15em;
+  border-radius: 0.5em;
+  position: relative;
+}
+
+.view-icon-container{
+  width: 15em;
+  height: 15em;
+  border-radius: 0.5em;
+  position: absolute;
+  background-color:hsl(178, 100%, 50%, 50%);
+  opacity: 0;
+}
+
+.view-icon-container:hover{
+  opacity: 1;
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+.card-title {
+  color: hsl(0, 0%, 100%);
+  font-family: 'Outfit', sans-serif;
+  font-weight: 600;
+  font-size: 1.2em;
+}
+
+.card-text {
+  color: hsl(215, 51%, 70%);
+  font-family: 'Outfit', sans-serif;
+  font-weight: 300;
+  margin-bottom: 1.5em;
+}
+.card-title:hover {
+  color: hsl(178, 100%, 50%);
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+p{
+  font-family: 'Outfit', sans-serif;
+  font-weight: 300;
+  font-size: 0.9em;
+}
+
+hr {
+  color: hsl(0, 0%, 100%);
+  margin-top: 0.5em;
+}
+
+dd{
+  font-size: 0.9em;
+}
+
+.ethereum {
+  color: hsl(178, 100%, 50%);
+}
+
+.creator {
+  color: hsl(215, 51%, 70%);
+  font-size: 0.9em;
+}
+.creator-name {
+  color: hsl(0, 0%, 100%);
+}
+
+.creator-name:hover {
+  color: hsl(178, 100%, 50%);
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+.time-left {
+  color: hsl(215, 51%, 70%);
+}
+
+.avatar {
+  width: 2em;
+  height: 2em;
+}
+
+.attribution{
+  color:hsl(0, 0%, 100%);
+  font-size: 0.8em;
+  margin: 0;
+}
+
+.attribution a{
+  color: hsl(178, 100%, 50%);
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.attribution a:hover{
+  color:hsla(178, 100%, 50%, 50%);
+}
