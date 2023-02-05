@@ -19,3 +19,7 @@
 ## 4. [Intro Component with Sign Up Form](https://github.com/shantanufsd/frontend-mentor-challenges/tree/main/intro-component-with-signup-form)
 
 ![Screenshot of Intro Component with Sign Up Form](./intro-component-with-signup-form/screenshots/sign-up-form-screenshot-desktop.png)
+
+## 5. [NFT Preview Card Component](https://github.com/shantanufsd/frontend-mentor-challenges/tree/main/nft-preview-card-component)
+
+![Screenshot of NFT preview card component](./nft-preview-card-component/screenshots/nft-preview-card-component-screenshot-desktop.png)
