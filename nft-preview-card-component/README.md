@@ -44,9 +44,7 @@ Users should be able to:
 
 - To easily style the elements using Bootstrap classes.
 
-```html
-<main class="container d-flex justify-content-center align-items-center vh-100">
-```
+
 
 ## Author
 
