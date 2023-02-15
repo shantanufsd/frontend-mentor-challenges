@@ -23,3 +23,7 @@
 ## 5. [NFT Preview Card Component](https://github.com/shantanufsd/frontend-mentor-challenges/tree/main/nft-preview-card-component)
 
 ![Screenshot of NFT preview card component](./nft-preview-card-component/screenshots/nft-preview-card-component-screenshot-desktop.png)
+
+## 6. [3-Column Preview Card Component](https://github.com/shantanufsd/frontend-mentor-challenges/tree/main/3-column-preview-card-component)
+
+![Screenshot of 3-Columm preview card component](./3-column-preview-card-component/screenshots/3-column-preview-card-component-screenshot-desktop.png)
