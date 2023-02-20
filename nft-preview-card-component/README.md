@@ -48,7 +48,7 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@shantanupratap](https://www.frontendmentor.io/profile/shantanupratap)
+- Frontend Mentor - [@shantanufsd](https://www.frontendmentor.io/profile/shantanufsd)
 - Twitter - [@shantanufsd](https://www.twitter.com/shantanufsd)
 
 
