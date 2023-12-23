@@ -27,3 +27,9 @@
 ## 6. [3-Column Preview Card Component](https://github.com/shantanufsd/frontend-mentor-challenges/tree/main/3-column-preview-card-component)
 
 ![Screenshot of 3-Columm preview card component](./3-column-preview-card-component/screenshots/3-column-preview-card-component-screenshot-desktop.png)
+
+## 7. [Blog Preview Card](https://github.com/shantanufsd/frontend-mentor-challenges/tree/main/blog-preview-card)
+
+![Screenshot of 3-Columm preview card component](./blog-preview-card/screenshots/blog-preview-card-screenshot-desktop.png)
+
+
